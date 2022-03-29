@@ -1,0 +1,9 @@
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\bin\Debug\binary cnverter.exe.config
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\bin\Debug\binary cnverter.exe
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\bin\Debug\binary cnverter.pdb
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary cnverter.csprojResolveAssemblyReference.cache
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary_cnverter.Form1.resources
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary_cnverter.Properties.Resources.resources
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary cnverter.csproj.GenerateResource.Cache
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary cnverter.exe
+C:\Users\Bené\Desktop\2020 project\binary converter\binary cnverter\binary cnverter\obj\Debug\binary cnverter.pdb
